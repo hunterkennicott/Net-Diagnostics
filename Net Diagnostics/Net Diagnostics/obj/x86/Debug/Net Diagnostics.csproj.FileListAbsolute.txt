@@ -1,0 +1,27 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\bin\Debug\Net Diagnostics.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\bin\Debug\Net Diagnostics.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net_Diagnostics.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net_Diagnostics.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csprojResolveAssemblyReference.cache
+E:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.exe
+E:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.pdb
+E:\Programming\Net Diagnostics\Net Diagnostics\bin\Debug\Net Diagnostics.exe
+E:\Programming\Net Diagnostics\Net Diagnostics\bin\Debug\Net Diagnostics.pdb
+E:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csprojResolveAssemblyReference.cache
+E:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net_Diagnostics.Form1.resources
+E:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net_Diagnostics.Properties.Resources.resources
+E:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csproj.GenerateResource.Cache
+J:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.exe
+J:\Programming\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.pdb
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\bin\Debug\Net Diagnostics.exe
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\bin\Debug\Net Diagnostics.pdb
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csprojAssemblyReference.cache
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net_Diagnostics.Form1.resources
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net_Diagnostics.Properties.Resources.resources
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csproj.GenerateResource.cache
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.csproj.CoreCompileInputs.cache
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.exe
+D:\Hunter\Documents\GitHub\Net-Diagnostics\Net Diagnostics\Net Diagnostics\obj\x86\Debug\Net Diagnostics.pdb
